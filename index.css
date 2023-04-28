@@ -1,0 +1,32 @@
+body {
+  background: linear-gradient(
+    to bottom right,
+    #4bb7d8,
+    #4bb7d8 33.33%,
+    #90c54c 33.33%,
+    #90c54c 66.66%,
+    #fde047 66.66%,
+    #fde047
+  );
+}
+img {
+  width: 25%;
+}
+
+header {
+  font-size: 36px;
+  color: red;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(
+    to bottom right,
+    #008080,
+    #008080 33.33%,
+    #ffff00 33.33%,
+    #ffff00 66.66%,
+    #00bfff 66.66%,
+    #00bfff
+  );
+}
